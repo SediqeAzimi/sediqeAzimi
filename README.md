@@ -1,6 +1,24 @@
-### Hi there 👋
+
+# Hi, I'm Sediqe! 👋
+
+## 🚀 About Me
+I'm a full stack developer...
+
+## Other Common Github Profile Sections
+👩‍💻 I'm currently working on Freelance project,
+
+🧠 Icurrently learned HTML, CSS, JS,
+
+🧠 I'm currently learning Node js.
+
+⚡️ Fun fact...
 
 
-- I currently learned HTML, CSS, JAVASCRIPT.
-- I’m learning Node js.
-- I'm working on Freelance project.
+## 🛠 Skills
+Javascript, HTML, CSS, Node jd.
+
+
+## Tech Stack
+**Client:** JAVAsCRIPT
+
+**Server:** Node, Express
