@@ -1,5 +1,6 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently learning HTML, CSS, JAVASCRIPT.
+- 🔭 I currently learned HTML, CSS, JAVASCRIPT.
 - 🌱 I’m learning Node js.
+- I'm working on freelancery project.
