@@ -19,6 +19,6 @@ Javascript, HTML, CSS, Node jd.
 
 
 ## Tech Stack
-**Client:** JAVAsCRIPT
+**Client:** JAVASCRIPT
 
 **Server:** Node, Express
