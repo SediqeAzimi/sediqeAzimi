@@ -22,3 +22,9 @@ Javascript, HTML, CSS, Node jd.
 **Client:** JAVASCRIPT
 
 **Server:** Node, Express
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SediqeAzimi)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SediqeAzimi&hide_progress=true)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SediqeAzimi&show_icons=true&theme=radical)
