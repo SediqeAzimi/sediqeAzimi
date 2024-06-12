@@ -9,7 +9,7 @@ I'm a full stack developer...
 
 🧠 I currently learned HTML, CSS, JS,
 
-🧠 I'm currently learning Node js.
+🧠 I'm currently learning Nodejs, expressJs.
 
 ## 🛠 Skills
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -32,7 +32,8 @@ I'm a full stack developer...
 
 ## database
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+Also, I developed site:https://gazinanhoney.com , with javascript and expressJS.
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SediqeAzimi)](https://github.com/anuraghazra/github-readme-stats)
 
