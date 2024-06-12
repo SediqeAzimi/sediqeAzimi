@@ -2,7 +2,9 @@
 # Hi, I'm Sediqe! 👋
 
 ## 🚀 About Me
-I'm a full stack developer...
+I'm a full stack developer.
+
+Also, I developed site:https://gazinanhoney.com , with javascript and expressJS.
 
 ## Other Common Github Profile Sections
 👩‍💻 I'm currently working on Freelance project,
@@ -32,8 +34,6 @@ I'm a full stack developer...
 
 ## database
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-Also, I developed site:https://gazinanhoney.com , with javascript and expressJS.
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SediqeAzimi)](https://github.com/anuraghazra/github-readme-stats)
 
