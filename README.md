@@ -36,6 +36,7 @@ Also, I developed site:https://azimi-fashionstore.liara.run , with javascript an
 
 ## database
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![](https://img.shields.io/badge/Mysql-yellow?style=for-the-badge&logo=Mysql&logoColor=white)
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SediqeAzimi)](https://github.com/anuraghazra/github-readme-stats)
 
